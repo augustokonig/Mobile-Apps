@@ -6,16 +6,16 @@ Course: Your course
 
 ## Requirement Checklist
 
-- [ ] Home page
-    - [ ] Show profile photo: With atleast 5dp separation from the layout
+- [x] Home page
+    - [ ] Show profile photo: With at least 5dp separation from the layout
     - [ ] Your Details: horizontally centered in layout
-        - [ ] Name
-        - [ ] Course
+        - [x] Name
+        - [x] Course
         - [ ] Github Icon (SVG Vector) and username
-    - [ ] Four buttons — Education, Skills, Achievements and Exit
+    - [x] Four buttons — Education, Skills, Achievements and Exit
         - [ ] vertically stacked
-        - [ ] same size
-        - [ ] separated vertically by atleast 5dp
+        - [x] same size
+        - [ ] separated vertically by at least 5dp
         - [ ] Education, Skills, Achievements take to new page
         - [ ] Exit should close the app
     - [ ] Copyright text at bottom:
